@@ -30,7 +30,7 @@ int main()
 		cout << "The biggest number: " << d << endl;
 	}
 	
-	else if (? > b && e > b && e > c && e > d)
+	else if (e > b && e > b && e > c && e > d)
 	{
 		cout << "The biggest number: " << e << endl;
 	}
